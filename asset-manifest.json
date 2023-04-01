@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/intelligent-agent-music/static/css/main.34fd85b4.css",
-    "main.js": "/intelligent-agent-music/static/js/main.c5dd49a0.js",
+    "main.css": "/intelligent-agent-music/static/css/main.97a9f55e.css",
+    "main.js": "/intelligent-agent-music/static/js/main.3396b55c.js",
     "static/js/651.5ecac045.chunk.js": "/intelligent-agent-music/static/js/651.5ecac045.chunk.js",
     "index.html": "/intelligent-agent-music/index.html",
-    "main.34fd85b4.css.map": "/intelligent-agent-music/static/css/main.34fd85b4.css.map",
-    "main.c5dd49a0.js.map": "/intelligent-agent-music/static/js/main.c5dd49a0.js.map",
+    "main.97a9f55e.css.map": "/intelligent-agent-music/static/css/main.97a9f55e.css.map",
+    "main.3396b55c.js.map": "/intelligent-agent-music/static/js/main.3396b55c.js.map",
     "651.5ecac045.chunk.js.map": "/intelligent-agent-music/static/js/651.5ecac045.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.34fd85b4.css",
-    "static/js/main.c5dd49a0.js"
+    "static/css/main.97a9f55e.css",
+    "static/js/main.3396b55c.js"
   ]
 }
